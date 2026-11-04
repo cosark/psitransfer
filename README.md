@@ -33,6 +33,10 @@ It's an alternative to paid services like Dropbox, WeTransfer.
 ![Screenshot](https://raw.githubusercontent.com/psi-4ward/psitransfer/master/docs/psitransfer.gif)
 
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/PsiTransfer/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+
 ## Quickstart
 
 ### Docker
